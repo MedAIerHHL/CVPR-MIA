@@ -19,6 +19,6 @@ To complement or correct it, please contact me at **1729766533 [at] qq [dot] com
 
 - Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration. [[Paper](https://arxiv.org/abs/2402.18933)]
 
-### Pre-training (预训练)
+### Medical Pre-training (预训练)
 
 - VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis. [[Paper](https://arxiv.org/abs/2402.17300)][[Code](https://github.com/Luffy03/VoCo)]
