@@ -1,6 +1,6 @@
 # CVPR-MIA
 
-Recent papers about medical images published on CVPR. [[Github]()]
+Recent papers about medical images published on CVPR. [[Github](https://github.com/MedAIerHHL/CVPR-MIA/)]
 
 To complement or correct it, please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
 
