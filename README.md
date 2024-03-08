@@ -23,6 +23,7 @@ Last updated: 2024/03/04
 
 - PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation.[[Paper](https://arxiv.org/abs/2402.19286)]
 - Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation. [[Paper](https://arxiv.org/abs/2311.10696)]
+- Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2311.18363)][[Code](https://github.com/Chen-Ziyang/VPTTA)]
 
 ### Image Generation (图像生成)
 
