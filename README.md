@@ -29,8 +29,17 @@ Last updated: 2024/03/04
 
 - Learned representation-guided diffusion models for large-image generation. [[Paper](https://arxiv.org/abs/2312.07330)]
 
+### Federated Learning（联邦学习）
+
+- Think Twice Before Selection: Federated Evidential Active Learning for Medical
+  Image Analysis with Domain Shifts. [[Paper](https://arxiv.org/abs/2312.02567)]
+
 ### Medical Pre-training (预训练)
 
 - VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis. [[Paper](https://arxiv.org/abs/2402.17300)][[Code](https://github.com/Luffy03/VoCo)]
 - MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning.[[Paper](https://arxiv.org/abs/2402.02045)]
 - Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning. [[Paper](https://arxiv.org/abs/2311.17597)][[Code](https://github.com/yeerwen/MedCoSS)]
+
+### Vision-Language Models
+
+- PairAug: What Can Augmented Image-Text Pairs Do for Radiology?
