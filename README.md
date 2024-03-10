@@ -12,8 +12,12 @@ Last updated: 2024/03/08
 
 - Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction. [[Paper](https://arxiv.org/abs/2402.19326)]
 - Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology. [[Paper](https://arxiv.org/abs/2402.17228)][[Code](https://github.com/DearCaat/RRT-MIL)]
-- PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation.[[Paper](https://arxiv.org/abs/2402.19286)][]
+- PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation.[[Paper](https://arxiv.org/abs/2402.19286)]
 - ChAda-ViT: Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images. [[Paper](https://arxiv.org/abs/2311.15264)][[Code](https://github.com/nicoboou/chada_vit)]
+
+### Image Reconstruction
+
+- QN-Mixer: A Quasi-Newton MLP-Mixer Model for Sparse-View CT Reconstruction.[[Paper](https://arxiv.org/abs/2402.17951v1)][Code][[Project](https://towzeur.github.io/QN-Mixer/)]
 
 ### Image Registration (图像配准)
 
@@ -28,11 +32,12 @@ Last updated: 2024/03/08
 ### Image Generation (图像生成)
 
 - Learned representation-guided diffusion models for large-image generation. [[Paper](https://arxiv.org/abs/2312.07330)]
+- MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant. [[Paper](https://arxiv.org/html/2403.04290v1)]
+- Towards Generalizable Tumor Synthesis. [[Paper](https://arxiv.org/abs/2402.19470v1)][[Code](https://github.com/MrGiovanni/DiffTumor)]
 
 ### Federated Learning（联邦学习）
 
-- Think Twice Before Selection: Federated Evidential Active Learning for Medical
-  Image Analysis with Domain Shifts. [[Paper](https://arxiv.org/abs/2312.02567)]
+- Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts. [[Paper](https://arxiv.org/abs/2312.02567)]
 
 ### Medical Pre-training (预训练)
 
@@ -43,3 +48,7 @@ Last updated: 2024/03/08
 ### Vision-Language Models
 
 - PairAug: What Can Augmented Image-Text Pairs Do for Radiology?
+
+### Others
+
+- Seeing Unseen: Discover Novel Biomedical Concepts via Geometry-Constrained Probabilistic Modeling.[[Paper](https://arxiv.org/html/2403.01053v2)]
