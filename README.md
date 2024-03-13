@@ -49,6 +49,7 @@ Last updated: 2024/03/12
 ### Vision-Language Models
 
 - PairAug: What Can Augmented Image-Text Pairs Do for Radiology?
+- Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework. [[Paper](https://arxiv.org/abs/2403.07636)][[Code](https://github.com/HieuPhan33/MAVL)]
 
 ### Others
 
