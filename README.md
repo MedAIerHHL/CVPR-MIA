@@ -14,12 +14,12 @@ Last updated: 2024/03/14
 - Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology. [[Paper](https://arxiv.org/abs/2402.17228)][[Code](https://github.com/DearCaat/RRT-MIL)]
 - PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation. [[Paper](https://arxiv.org/abs/2402.19286)]
 - ChAda-ViT: Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images. [[Paper](https://arxiv.org/abs/2311.15264)][[Code](https://github.com/nicoboou/chada_vit)]
-- SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology. [Paper][Code]
+- SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology. [[Paper](https://arxiv.org/abs/2312.15010)][Code]
 
 ### Image Reconstruction (图像重建)
 
 - QN-Mixer: A Quasi-Newton MLP-Mixer Model for Sparse-View CT Reconstruction. [[Paper](https://arxiv.org/abs/2402.17951v1)][Code][[Project](https://towzeur.github.io/QN-Mixer/)]
-- Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI. [Paper][Code]
+- Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI. [[Paper](https://arxiv.org/abs/2312.03102)][[Code](http://github.com/seannz/svr)]
 
 ### Image Resolution (图像超分)
 
