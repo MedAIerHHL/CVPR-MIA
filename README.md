@@ -4,7 +4,7 @@ Recent papers about medical images published on CVPR. [[Github](https://github.c
 
 To complement or correct it, please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
 
-Last updated: 2024/03/14
+Last updated: 2024/03/15
 
 ## CVPR2024
 
@@ -88,3 +88,4 @@ Last updated: 2024/03/14
 ### Others
 
 - Seeing Unseen: Discover Novel Biomedical Concepts via Geometry-Constrained Probabilistic Modeling. [[Paper](https://arxiv.org/html/2403.01053v2)]
+- FocusMAE: Gallbladder Cancer Detection from Ultrasound Videos with Focused Masked Autoencoders. [[Paper](https://arxiv.org/abs/2403.08848)][[Code](https://github.com/sbasu276/FocusMAE)]
