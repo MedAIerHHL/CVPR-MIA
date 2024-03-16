@@ -1,4 +1,4 @@
-# lCVPR-MIA
+# CVPR-MIA
 
 Recent papers about medical images published on CVPR. [[Github](https://github.com/MedAIerHHL/CVPR-MIA/)]
 
