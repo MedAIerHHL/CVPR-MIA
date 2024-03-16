@@ -20,6 +20,7 @@ Last updated: 2024/03/16
 
 - QN-Mixer: A Quasi-Newton MLP-Mixer Model for Sparse-View CT Reconstruction. [[Paper](https://arxiv.org/abs/2402.17951v1)][Code][[Project](https://towzeur.github.io/QN-Mixer/)]
 - Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI. [[Paper](https://arxiv.org/abs/2312.03102)][[Code](http://github.com/seannz/svr)]
+- Structure-Aware Sparse-View X-ray 3D Reconstruction.[[Paper](https://arxiv.org/abs/2311.10959)][[Code](https://github.com/caiyuanhao1998/SAX-NeRF)]
 
 ### Image Resolution (图像超分)
 
@@ -79,7 +80,7 @@ Last updated: 2024/03/16
 - PairAug: What Can Augmented Image-Text Pairs Do for Radiology? [Paper][Code]
 - Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework. [[Paper](https://arxiv.org/abs/2403.07636)][[Code](https://github.com/HieuPhan33/MAVL)]
 - Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images. [Paper][Code]
-- OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM. [Paper][Code]
+- OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM. [[Paper](https://arxiv.org/abs/2402.09181)][Code]
 
 ### Foundation Models (基础模型)
 
