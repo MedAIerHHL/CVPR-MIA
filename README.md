@@ -1,10 +1,10 @@
-# CVPR-MIA
+# lCVPR-MIA
 
 Recent papers about medical images published on CVPR. [[Github](https://github.com/MedAIerHHL/CVPR-MIA/)]
 
 To complement or correct it, please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
 
-Last updated: 2024/03/15
+Last updated: 2024/03/16
 
 ## CVPR2024
 
@@ -37,14 +37,14 @@ Last updated: 2024/03/15
 - Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2311.18363)][[Code](https://github.com/Chen-Ziyang/VPTTA)]
 - One-Prompt to Segment All Medical Images. [[Paper](https://arxiv.org/abs/2305.10300)][[Code](https://github.com/WuJunde/PromptUNet/tree/main)]
 - Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention. [Paper][Code][[Project](https://skawngus1111.github.io/MADGNet_project/)]
-- Diversified and Personalized Multi-rater Medical Image Segmentation. [Paper][Code]
-- MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling. [Paper][Code]
+- Diversified and Personalized Multi-rater Medical Image Segmentation. [[Paper](https://arxiv.org/pdf/2212.00601)][Code]
+- MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling. [[Paper](https://arxiv.org/abs/2303.09373)][Code]
 - Adaptive Bidirectional Displacement for Semi-Supervised Medical Image Segmentation. [Paper][Code]
 - Cross-dimension Affinity Distillation for 3D EM Neuron Segmentation. [Paper][Code]
 - ToNNO: Tomographic Reconstruction of a Neural Network’s Output for Weakly Supervised Segmentation of 3D Medical Images.[Paper][Code]
-- Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation. [Paper][Code]
+- Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation. [[Paper](https://arxiv.org/abs/2311.10696)][Code]
 - Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Anthropic Prior Knowledge. [Paper][Code]
-- Tyche: Stochastic in Context Learning for Universal Medical Image Segmentation. [Paper][Code]
+- Tyche: Stochastic in Context Learning for Universal Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2401.13650)][[Code](https://github.com/mariannerakic/tyche/)]
 - Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation. [Paper][Code]
 - S2VNet: Universal Multi-Class Medical Image Segmentation via Clustering-based Slice-to-Volume Propagation. [Paper][Code]
 - EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation.[Paper][Code]
