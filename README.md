@@ -4,7 +4,7 @@ Recent papers about medical images published on CVPR. [[Github](https://github.c
 
 To complement or correct it, please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
 
-Last updated: 2024/03/16
+Last updated: 2024/03/21
 
 ## CVPR2024
 
@@ -55,6 +55,7 @@ Last updated: 2024/03/16
 
 - Systematic comparison of semi-supervised and self-supervised learning for medical image classification. [Paper][Code]
 - PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection. [Paper][Code]
+- Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images. [[Paper](https://arxiv.org/abs/2403.12570)][[Code](https://github.com/MediaBrain-SJTU/MVFA-AD)]
 
 ### Federated Learning（联邦学习）
 
