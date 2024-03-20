@@ -75,7 +75,7 @@ Last updated: 2024/03/21
 - Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework. [[Paper](https://arxiv.org/abs/2403.07636)][[Code](https://github.com/HieuPhan33/MAVL)]
 - Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images. [Paper][Code]
 - OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM. [[Paper](https://arxiv.org/abs/2402.09181)][Code]
-- CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification. [[Paper](https://arxiv.org/abs/2402.17417)][Code][[中文](https://arxivtools.blob.core.windows.net/xueshuxiangzipaperhtml/2024_2_28/2402.17417.pdf)]
+- CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification. [[Paper](https://arxiv.org/abs/2402.17417)][Code]
 
 ### Foundation Models (基础模型)
 
