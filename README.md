@@ -8,19 +8,12 @@ Last updated: 2024/03/16
 
 ## CVPR2024
 
-### Computational Pathology (计算病理)
-
-- Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction. [[Paper](https://arxiv.org/abs/2402.19326)]
-- Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology. [[Paper](https://arxiv.org/abs/2402.17228)][[Code](https://github.com/DearCaat/RRT-MIL)]
-- PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation. [[Paper](https://arxiv.org/abs/2402.19286)]
-- ChAda-ViT: Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images. [[Paper](https://arxiv.org/abs/2311.15264)][[Code](https://github.com/nicoboou/chada_vit)]
-- SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology. [[Paper](https://arxiv.org/abs/2312.15010)][Code]
-
 ### Image Reconstruction (图像重建)
 
 - QN-Mixer: A Quasi-Newton MLP-Mixer Model for Sparse-View CT Reconstruction. [[Paper](https://arxiv.org/abs/2402.17951v1)][Code][[Project](https://towzeur.github.io/QN-Mixer/)]
 - Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI. [[Paper](https://arxiv.org/abs/2312.03102)][[Code](http://github.com/seannz/svr)]
 - Structure-Aware Sparse-View X-ray 3D Reconstruction.[[Paper](https://arxiv.org/abs/2311.10959)][[Code](https://github.com/caiyuanhao1998/SAX-NeRF)]
+- Progressive Divide-and-Conquer via Subsampling Decomposition for Accelerated MRI. [[Paper](https://arxiv.org/abs/2403.10064)][[Code](https://github.com/ChongWang1024/PDAC)]
 
 ### Image Resolution (图像超分)
 
@@ -81,10 +74,19 @@ Last updated: 2024/03/16
 - Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework. [[Paper](https://arxiv.org/abs/2403.07636)][[Code](https://github.com/HieuPhan33/MAVL)]
 - Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images. [Paper][Code]
 - OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM. [[Paper](https://arxiv.org/abs/2402.09181)][Code]
+- CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification. [[Paper](https://arxiv.org/abs/2402.17417)][Code][[中文](https://arxivtools.blob.core.windows.net/xueshuxiangzipaperhtml/2024_2_28/2402.17417.pdf)]
 
 ### Foundation Models (基础模型)
 
 - Low-Rank Knowledge Decomposition for Medical Foundation Models. [Paper][Code]
+
+### Computational Pathology (计算病理)
+
+- Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction. [[Paper](https://arxiv.org/abs/2402.19326)]
+- Feature Re-Embedding: Towards Foundation Model-Level Performance in Computational Pathology. [[Paper](https://arxiv.org/abs/2402.17228)][[Code](https://github.com/DearCaat/RRT-MIL)]
+- PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation. [[Paper](https://arxiv.org/abs/2402.19286)]
+- ChAda-ViT: Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images. [[Paper](https://arxiv.org/abs/2311.15264)][[Code](https://github.com/nicoboou/chada_vit)]
+- SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology. [[Paper](https://arxiv.org/abs/2312.15010)][Code]
 
 ### Others
 
