@@ -31,7 +31,7 @@ Last updated: 2024/03/21
 - Each Test Image Deserves A Specific Prompt: Continual Test-Time Adaptation for 2D Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2311.18363)][[Code](https://github.com/Chen-Ziyang/VPTTA)]
 - One-Prompt to Segment All Medical Images. [[Paper](https://arxiv.org/abs/2305.10300)][[Code](https://github.com/WuJunde/PromptUNet/tree/main)]
 - Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention. [Paper][Code][[Project](https://skawngus1111.github.io/MADGNet_project/)]
-- Diversified and Personalized Multi-rater Medical Image Segmentation. [[Paper](https://arxiv.org/pdf/2212.00601)][Code]
+- Diversified and Personalized Multi-rater Medical Image Segmentation. [[Paper](https://arxiv.org/pdf/2212.00601)][[Code](https://github.com/ycwu1997/D-Persona)]
 - MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling. [[Paper](https://arxiv.org/abs/2303.09373)][Code]
 - Adaptive Bidirectional Displacement for Semi-Supervised Medical Image Segmentation. [Paper][Code]
 - Cross-dimension Affinity Distillation for 3D EM Neuron Segmentation. [Paper][Code]
