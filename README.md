@@ -22,7 +22,7 @@ Last updated: 2024/03/21
 ### Image Registration (图像配准)
 
 - Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration. [[Paper](https://arxiv.org/abs/2402.18933)]
-- Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration. [Paper][Code]
+- Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration. [Paper][[Code](https://github.com/jungeun122333/UVI-Net)]
 
 ### Image Segmentation (图像分割)
 
@@ -42,18 +42,18 @@ Last updated: 2024/03/21
 - Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation. [Paper][Code]
 - S2VNet: Universal Multi-Class Medical Image Segmentation via Clustering-based Slice-to-Volume Propagation. [Paper][Code]
 - EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation.[Paper][Code]
-- Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation.[Paper][Code]
+- Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation.[[Paper](https://arxiv.org/abs/2306.02416)][[Code](https://github.com/yhygao/universal-medical-image-segmentation)]
 
 ### Image Generation (图像生成)
 
 - Learned representation-guided diffusion models for large-image generation. [[Paper](https://arxiv.org/abs/2312.07330)]
 - MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant. [[Paper](https://arxiv.org/html/2403.04290v1)]
 - Towards Generalizable Tumor Synthesis. [[Paper](https://arxiv.org/abs/2402.19470v1)][[Code](https://github.com/MrGiovanni/DiffTumor)]
-- Data-Efficient Unsupervised Interpolation Without Any Intermediate Frame for 4D Medical Images. [Paper][Code]
+- Data-Efficient Unsupervised Interpolation Without Any Intermediate Frame for 4D Medical Images. [[Paper](https://arxiv.org/abs/2404.01464)][[Code](https://github.com/jungeun122333/UVI-Net)]
 
 ### Image Classification (图像分类)
 
-- Systematic comparison of semi-supervised and self-supervised learning for medical image classification. [Paper][Code]
+- Systematic comparison of semi-supervised and self-supervised learning for medical image classification. [[Paper](https://arxiv.org/abs/2307.08919v2)][[Code](https://github.com/tufts-ml/SSL-vs-SSL-benchmark)]
 - PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection. [Paper][Code]
 - Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images. [[Paper](https://arxiv.org/abs/2403.12570)][[Code](https://github.com/MediaBrain-SJTU/MVFA-AD)]
 
@@ -67,13 +67,13 @@ Last updated: 2024/03/21
 - MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning. [[Paper](https://arxiv.org/abs/2402.02045)]
 - Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning. [[Paper](https://arxiv.org/abs/2311.17597)][[Code](https://github.com/yeerwen/MedCoSS)]
 - Bootstrapping Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models. [Paper][Code]
-- Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding. [Paper][Code]
+- Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding. [[Paper](https://arxiv.org/abs/2403.18271)][[Code](https://github.com/Cccccczh404/H-SAM)]
 
 ### Vision-Language Models (视觉-语言)
 
 - PairAug: What Can Augmented Image-Text Pairs Do for Radiology? [Paper][Code]
 - Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework. [[Paper](https://arxiv.org/abs/2403.07636)][[Code](https://github.com/HieuPhan33/MAVL)]
-- Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images. [Paper][Code]
+- Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images. [[Paper](https://arxiv.org/abs/2403.12570)][[Code](https://github.com/MediaBrain-SJTU/MVFA-AD)]
 - OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM. [[Paper](https://arxiv.org/abs/2402.09181)][Code]
 - CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification. [[Paper](https://arxiv.org/abs/2402.17417)][Code]
 
