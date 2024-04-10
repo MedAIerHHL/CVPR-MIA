@@ -4,7 +4,7 @@ Recent papers about medical images published on CVPR. [[Github](https://github.c
 
 To complement or correct it, please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
 
-Last updated: 2024/04/04
+Last updated: 2024/04/10
 
 ## CVPR2024
 
@@ -17,7 +17,7 @@ Last updated: 2024/04/04
 
 ### Image Resolution (图像超分)
 
-- Learning Large-Factor EM Image Super-Resolution with Generative Priors. [Paper][Code]
+- Learning Large-Factor EM Image Super-Resolution with Generative Priors. [Paper][[Code](Learning Large-Factor EM Image Super-Resolution with Generative Priors.)]
 
 ### Image Registration (图像配准)
 
@@ -54,7 +54,6 @@ Last updated: 2024/04/04
 ### Image Classification (图像分类)
 
 - Systematic comparison of semi-supervised and self-supervised learning for medical image classification. [[Paper](https://arxiv.org/abs/2307.08919v2)][[Code](https://github.com/tufts-ml/SSL-vs-SSL-benchmark)]
-- PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection. [Paper][Code]
 - Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images. [[Paper](https://arxiv.org/abs/2403.12570)][[Code](https://github.com/MediaBrain-SJTU/MVFA-AD)]
 
 ### Federated Learning（联邦学习）
@@ -66,12 +65,12 @@ Last updated: 2024/04/04
 - VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis. [[Paper](https://arxiv.org/abs/2402.17300)][[Code](https://github.com/Luffy03/VoCo)]
 - MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning. [[Paper](https://arxiv.org/abs/2402.02045)]
 - Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning. [[Paper](https://arxiv.org/abs/2311.17597)][[Code](https://github.com/yeerwen/MedCoSS)]
-- Bootstrapping Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models. [Paper][Code]
+- Bootstrapping Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models. [[Paper](https://arxiv.org/abs/2404.04936v1)][Code]
 - Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding. [[Paper](https://arxiv.org/abs/2403.18271)][[Code](https://github.com/Cccccczh404/H-SAM)]
 
 ### Vision-Language Models (视觉-语言)
 
-- PairAug: What Can Augmented Image-Text Pairs Do for Radiology? [Paper][Code]
+- PairAug: What Can Augmented Image-Text Pairs Do for Radiology? [[Paper](https://arxiv.org/abs/2404.04960)][[Code](https://github.com/YtongXie/PairAug)]
 - Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework. [[Paper](https://arxiv.org/abs/2403.07636)][[Code](https://github.com/HieuPhan33/MAVL)]
 - Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images. [[Paper](https://arxiv.org/abs/2403.12570)][[Code](https://github.com/MediaBrain-SJTU/MVFA-AD)]
 - OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM. [[Paper](https://arxiv.org/abs/2402.09181)][Code]
