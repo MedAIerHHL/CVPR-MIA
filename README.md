@@ -18,7 +18,7 @@ Last updated: 2024/04/11
 ### Image Resolution (图像超分)
 
 - Learning Large-Factor EM Image Super-Resolution with Generative Priors. [Paper][[Code](Learning Large-Factor EM Image Super-Resolution with Generative Priors.)]
-- CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data. [Paper](https://arxiv.org/abs/2404.04878v1)[Code]
+- CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data. [[Paper](https://arxiv.org/abs/2404.04878v1)][Code]
 
 ### Image Registration (图像配准)
 
@@ -44,7 +44,7 @@ Last updated: 2024/04/11
 - S2VNet: Universal Multi-Class Medical Image Segmentation via Clustering-based Slice-to-Volume Propagation. [Paper][Code]
 - EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation.[Paper][Code]
 - Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation.[[Paper](https://arxiv.org/abs/2306.02416)][[Code](https://github.com/yhygao/universal-medical-image-segmentation)]
-- ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting. [Paper](https://arxiv.org/abs/2312.04964)[Code]
+- ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting. [[Paper](https://arxiv.org/abs/2312.04964)][Code]
 
 ### Image Generation (图像生成)
 
