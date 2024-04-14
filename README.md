@@ -66,7 +66,7 @@ Last updated: 2024/04/11
 
 - VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis. [[Paper](https://arxiv.org/abs/2402.17300)][[Code](https://github.com/Luffy03/VoCo)]
 - MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning. [[Paper](https://arxiv.org/abs/2402.02045)]
-- [**Highlight!**] Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning. [[Paper](https://arxiv.org/abs/2311.17597)][[Code](https://github.com/yeerwen/MedCoSS)]
+- **[Highlight!]** **Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning. [[Paper](https://arxiv.org/abs/2311.17597)][[Code](https://github.com/yeerwen/MedCoSS)]**
 - Bootstrapping Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models. [[Paper](https://arxiv.org/abs/2404.04936v1)][Code]
 - Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding. [[Paper](https://arxiv.org/abs/2403.18271)][[Code](https://github.com/Cccccczh404/H-SAM)]
 
