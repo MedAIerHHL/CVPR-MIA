@@ -2,7 +2,7 @@
 
 Recent papers about medical images published on CVPR. [[Github](https://github.com/MedAIerHHL/CVPR-MIA/)]
 
-To complement or correct it, please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
+To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
 
 Last updated: 2024/04/12
 
@@ -17,13 +17,13 @@ Last updated: 2024/04/12
 
 ### Image Resolution (图像超分)
 
-- Learning Large-Factor EM Image Super-Resolution with Generative Priors. [Paper][[Code](Learning Large-Factor EM Image Super-Resolution with Generative Priors.)]
+- Learning Large-Factor EM Image Super-Resolution with Generative Priors. [Paper][[Code](https://github.com/jtshou/GPEMSR)]
 - CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data. [[Paper](https://arxiv.org/abs/2404.04878v1)][Code]
 
 ### Image Registration (图像配准)
 
 - Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration. [[Paper](https://arxiv.org/abs/2402.18933)]
-- Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration. [Paper][[Code](https://github.com/jungeun122333/UVI-Net)]
+- **[Oral!!!] Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration. [Paper][[Code](https://github.com/jungeun122333/UVI-Net)]**
 
 ### Image Segmentation (图像分割)
 
@@ -38,10 +38,10 @@ Last updated: 2024/04/12
 - Cross-dimension Affinity Distillation for 3D EM Neuron Segmentation. [Paper][Code]
 - ToNNO: Tomographic Reconstruction of a Neural Network’s Output for Weakly Supervised Segmentation of 3D Medical Images.[Paper][Code]
 - Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation. [[Paper](https://arxiv.org/abs/2311.10696)][Code]
-- Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Anthropic Prior Knowledge. [Paper][Code]
+- Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Anthropic Prior Knowledge. [[Paper](https://arxiv.org/abs/2404.01013)][Code]
 - Tyche: Stochastic in Context Learning for Universal Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2401.13650)][[Code](https://github.com/mariannerakic/tyche/)]
-- Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation. [Paper][Code]
-- S2VNet: Universal Multi-Class Medical Image Segmentation via Clustering-based Slice-to-Volume Propagation. [Paper][Code]
+- Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2404.08951)][[Code](https://arxiv.org/abs/2404.08951)]
+- S2VNet: Universal Multi-Class Medical Image Segmentation via Clustering-based Slice-to-Volume Propagation. [[Paper](https://arxiv.org/abs/2403.16646)][[Code](https://github.com/dyh127/S2VNet)]
 - EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation.[Paper][Code]
 - Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation.[[Paper](https://arxiv.org/abs/2306.02416)][[Code](https://github.com/yhygao/universal-medical-image-segmentation)]
 - ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting. [[Paper](https://arxiv.org/abs/2312.04964)][Code]
