@@ -4,7 +4,7 @@ Recent papers about medical images published on CVPR. [[Github](https://github.c
 
 To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
 
-Last updated: 2024/04/19
+Last updated: 2024/04/20
 
 ## CVPR2024
 
@@ -77,6 +77,7 @@ Last updated: 2024/04/19
 - Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images. [[Paper](https://arxiv.org/abs/2403.12570)][[Code](https://github.com/MediaBrain-SJTU/MVFA-AD)]
 - OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM. [[Paper](https://arxiv.org/abs/2402.09181)][Code]
 - CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification. [[Paper](https://arxiv.org/abs/2402.17417)][Code]
+- FairCLIP: Harnessing Fairness in Vision-Language Learning [[Paper](https://arxiv.org/abs/2403.19949)][[Code](https://github.com/Harvard-Ophthalmology-AI-Lab/FairCLIP)][[推送](https://mp.weixin.qq.com/s/EEe4Z1OrKaKqr5xXr3vipg)]
 
 ### Foundation Models (基础模型)
 
