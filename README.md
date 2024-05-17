@@ -4,7 +4,7 @@ Recent papers about medical images published on CVPR. [[Github](https://github.c
 
 To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
 
-Last updated: 2024/04/20
+Last updated: 2024/05/17
 
 ## CVPR2024
 
