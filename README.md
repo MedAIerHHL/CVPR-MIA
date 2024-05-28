@@ -4,7 +4,7 @@ Recent papers about medical images published on CVPR. [[Github](https://github.c
 
 To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
 
-Last updated: 2024/05/17
+Last updated: 2024/05/28
 
 ## CVPR2024
 
@@ -45,6 +45,8 @@ Last updated: 2024/05/17
 - EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation.[[Paper](https://arxiv.org/abs/2405.06880)][[Code](https://github.com/SLDGroup/EMCAD)]
 - Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation.[[Paper](https://arxiv.org/abs/2306.02416)][[Code](https://github.com/yhygao/universal-medical-image-segmentation)]
 - ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting. [[Paper](https://arxiv.org/abs/2312.04964)][Code]
+- **[Oral!!!] Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration. [[Paper](https://github.com/dengxl0520/MemSAM/blob/main/paper.pdf)][[Code](https://github.com/dengxl0520/MemSAM/tree/main)]**
+- PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness. [Paper][[Code](https://github.com/jjjsyyy/PH-Net)][[Video](https://cvpr.thecvf.com/virtual/2024/poster/30539)]
 
 ### Image Generation (图像生成)
 
