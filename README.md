@@ -4,7 +4,7 @@ Recent papers about medical images published on CVPR. [[Github](https://github.c
 
 To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
 
-Last updated: 2024/05/28
+Last updated: 2024/06/10
 
 ## CVPR2024
 
@@ -17,13 +17,13 @@ Last updated: 2024/05/28
 
 ### Image Resolution (图像超分)
 
-- Learning Large-Factor EM Image Super-Resolution with Generative Priors. [Paper][[Code](https://github.com/jtshou/GPEMSR)]
+- Learning Large-Factor EM Image Super-Resolution with Generative Priors. [Paper][[Code](https://github.com/jtshou/GPEMSR)][[Video](https://youtu.be/LNSLQM5-YcM)]
 - CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data. [[Paper](https://arxiv.org/abs/2404.04878v1)][Code]
 
 ### Image Registration (图像配准)
 
 - Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration. [[Paper](https://arxiv.org/abs/2402.18933)]
-- **[Oral!!!] Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration. [Paper][[Code](https://github.com/jungeun122333/UVI-Net)]**
+- **[Oral & Best Paper Candidate!!!] Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration. [[Paper](https://arxiv.org/abs/2406.00123)][[Code](https://github.com/jungeun122333/UVI-Net)]**
 
 ### Image Segmentation (图像分割)
 
@@ -64,15 +64,16 @@ Last updated: 2024/05/28
 
 - Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts. [[Paper](https://arxiv.org/abs/2312.02567)]
 
-### Medical Pre-training (预训练)
+### Medical Pre-training $ Foundation Model（预训练&基础模型）
 
 - VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis. [[Paper](https://arxiv.org/abs/2402.17300)][[Code](https://github.com/Luffy03/VoCo)]
 - MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning. [[Paper](https://arxiv.org/abs/2402.02045)]
 - **[Highlight!]** **Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning. [[Paper](https://arxiv.org/abs/2311.17597)][[Code](https://github.com/yeerwen/MedCoSS)]**
 - Bootstrapping Chest CT Image Understanding by Distilling Knowledge from X-ray Expert Models. [[Paper](https://arxiv.org/abs/2404.04936v1)][Code]
 - Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding. [[Paper](https://arxiv.org/abs/2403.18271)][[Code](https://github.com/Cccccczh404/H-SAM)]
+- Low-Rank Knowledge Decomposition for Medical Foundation Models. [[Paper](https://arxiv.org/abs/2404.17184)][[Code](https://github.com/MediaBrain-SJTU/LoRKD)]
 
-### Vision-Language Models (视觉-语言)
+### Vision-Language Model (视觉-语言)
 
 - PairAug: What Can Augmented Image-Text Pairs Do for Radiology? [[Paper](https://arxiv.org/abs/2404.04960)][[Code](https://github.com/YtongXie/PairAug)]
 - Decomposing Disease Descriptions for Enhanced Pathology Detection: A Multi-Aspect Vision-Language Matching Framework. [[Paper](https://arxiv.org/abs/2403.07636)][[Code](https://github.com/HieuPhan33/MAVL)]
@@ -81,10 +82,6 @@ Last updated: 2024/05/28
 - CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification. [[Paper](https://arxiv.org/abs/2402.17417)][Code]
 - FairCLIP: Harnessing Fairness in Vision-Language Learning [[Paper](https://arxiv.org/abs/2403.19949)][[Code](https://github.com/Harvard-Ophthalmology-AI-Lab/FairCLIP)][[推送](https://mp.weixin.qq.com/s/EEe4Z1OrKaKqr5xXr3vipg)]
 
-### Foundation Models (基础模型)
-
-- Low-Rank Knowledge Decomposition for Medical Foundation Models. [Paper][Code]
-
 ### Computational Pathology (计算病理)
 
 - Generalizable Whole Slide Image Classification with Fine-Grained Visual-Semantic Interaction. [[Paper](https://arxiv.org/abs/2402.19326)]
@@ -92,6 +89,7 @@ Last updated: 2024/05/28
 - PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation. [[Paper](https://arxiv.org/abs/2402.19286)]
 - ChAda-ViT: Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images. [[Paper](https://arxiv.org/abs/2311.15264)][[Code](https://github.com/nicoboou/chada_vit)]
 - SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology. [[Paper](https://arxiv.org/abs/2312.15010)][Code]
+- Transcriptomics-guided Slide Representation Learning in Computational Pathology [[Paper](https://arxiv.org/abs/2405.11618)][[Code](https://arxiv.org/abs/2405.11618)]
 
 ### Others
 
