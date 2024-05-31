@@ -92,6 +92,7 @@ Last updated: 2024/05/28
 - PrPSeg: Universal Proposition Learning for Panoramic Renal Pathology Segmentation. [[Paper](https://arxiv.org/abs/2402.19286)]
 - ChAda-ViT: Channel Adaptive Attention for Joint Representation Learning of Heterogeneous Microscopy Images. [[Paper](https://arxiv.org/abs/2311.15264)][[Code](https://github.com/nicoboou/chada_vit)]
 - SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology. [[Paper](https://arxiv.org/abs/2312.15010)][Code]
+- Transcriptomics-guided Slide Representation Learning in Computational Pathology [[Paper](https://arxiv.org/abs/2405.11618)][[Code](https://arxiv.org/abs/2405.11618)]
 
 ### Others
 
