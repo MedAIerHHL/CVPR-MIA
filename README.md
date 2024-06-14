@@ -35,18 +35,18 @@ Last updated: 2024/06/14
 - Diversified and Personalized Multi-rater Medical Image Segmentation. [[Paper](https://arxiv.org/pdf/2212.00601)][[Code](https://github.com/ycwu1997/D-Persona)]
 - MAPSeg: Unified Unsupervised Domain Adaptation for Heterogeneous Medical Image Segmentation Based on 3D Masked Autoencoding and Pseudo-Labeling. [[Paper](https://arxiv.org/abs/2303.09373)][Code]
 - Adaptive Bidirectional Displacement for Semi-Supervised Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2405.00378)][[Code](https://github.com/chy-upc/ABD)]
-- Cross-dimension Affinity Distillation for 3D EM Neuron Segmentation. [Paper][Code]
+- Cross-dimension Affinity Distillation for 3D EM Neuron Segmentation. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Cross-Dimension_Affinity_Distillation_for_3D_EM_Neuron_Segmentation_CVPR_2024_paper.pdf)][[Code](https://github.com/liuxy1103/CAD)]
 - ToNNO: Tomographic Reconstruction of a Neural Network’s Output for Weakly Supervised Segmentation of 3D Medical Images.[[Paper](https://arxiv.org/abs/2404.13103)][Code]
 - Versatile Medical Image Segmentation Learned from Multi-Source Datasets via Model Self-Disambiguation. [[Paper](https://arxiv.org/abs/2311.10696)][Code]
 - Teeth-SEG: An Efficient Instance Segmentation Framework for Orthodontic Treatment based on Anthropic Prior Knowledge. [[Paper](https://arxiv.org/abs/2404.01013)][Code]
 - Tyche: Stochastic in Context Learning for Universal Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2401.13650)][[Code](https://github.com/mariannerakic/tyche/)]
-- Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2404.08951)][[Code](https://arxiv.org/abs/2404.08951)]
+- Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2404.08951)][[Code](https://github.com/MQinghe/MiDSS)]
 - S2VNet: Universal Multi-Class Medical Image Segmentation via Clustering-based Slice-to-Volume Propagation. [[Paper](https://arxiv.org/abs/2403.16646)][[Code](https://github.com/dyh127/S2VNet)]
 - EMCAD: Efficient Multi-scale Convolutional Attention Decoding for Medical Image Segmentation.[[Paper](https://arxiv.org/abs/2405.06880)][[Code](https://github.com/SLDGroup/EMCAD)]
 - Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation.[[Paper](https://arxiv.org/abs/2306.02416)][[Code](https://github.com/yhygao/universal-medical-image-segmentation)]
 - ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting. [[Paper](https://arxiv.org/abs/2312.04964)][Code]
 - **[Oral!!!] Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration. [[Paper](https://github.com/dengxl0520/MemSAM/blob/main/paper.pdf)][[Code](https://github.com/dengxl0520/MemSAM/tree/main)]**
-- PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness. [Paper][[Code](https://github.com/jjjsyyy/PH-Net)][[Video](https://cvpr.thecvf.com/virtual/2024/poster/30539)]
+- PH-Net: Semi-Supervised Breast Lesion Segmentation via Patch-wise Hardness. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Jiang_PH-Net_Semi-Supervised_Breast_Lesion_Segmentation_via_Patch-wise_Hardness_CVPR_2024_paper.pdf)][[Code](https://github.com/jjjsyyy/PH-Net)][[Video](https://cvpr.thecvf.com/virtual/2024/poster/30539)]
 
 ### Image Generation (图像生成)
 
