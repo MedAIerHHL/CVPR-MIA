@@ -4,7 +4,7 @@ Recent papers about medical images published on CVPR. [[Github](https://github.c
 
 To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
 
-Last updated: 2024/06/10
+Last updated: 2024/06/14
 
 ## CVPR2024
 
@@ -17,7 +17,7 @@ Last updated: 2024/06/10
 
 ### Image Resolution (图像超分)
 
-- Learning Large-Factor EM Image Super-Resolution with Generative Priors. [Paper][[Code](https://github.com/jtshou/GPEMSR)][[Video](https://youtu.be/LNSLQM5-YcM)]
+- Learning Large-Factor EM Image Super-Resolution with Generative Priors. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Shou_Learning_Large-Factor_EM_Image_Super-Resolution_with_Generative_Priors_CVPR_2024_paper.pdf)][[Code](https://github.com/jtshou/GPEMSR)][[Video](https://youtu.be/LNSLQM5-YcM)]
 - CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data. [[Paper](https://arxiv.org/abs/2404.04878v1)][Code]
 
 ### Image Registration (图像配准)
