@@ -8,9 +8,14 @@ Last updated: 2025/02/28
 
 # CVPR2025
 
+## Image Segmentation (图像分割)
+
+- nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. [Paper][Code]
+- Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline. [[Paper](https://arxiv.org/pdf/2411.12814)][[Code](https://github.com/uni-medical/IMIS-Bench)]
+
 ## Vision-Language Model (视觉-语言)
 
-* Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation.[[Paper](https://arxiv.org/abs/2502.20056)][[Code](https://github.com/mk-runner/MLRG)]
+* Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation. [[Paper](https://arxiv.org/abs/2502.20056)][[Code](https://github.com/mk-runner/MLRG)]
 
 ## Others
 
