@@ -20,6 +20,10 @@ Last updated: 2025/03/02
 * Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation. [[Paper](https://arxiv.org/abs/2502.20056)][[Code](https://github.com/mk-runner/MLRG)]
 * FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification. [[Paper](https://arxiv.org/pdf/2411.14743)][[Code](https://github.com/dddavid4real/FOCUS)][[推送](https://mp.weixin.qq.com/s/1MYkitZ3btZUBOMcBg_ryw)]
 
+## Computational Pathology (计算病理)
+
+- Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance LearningComputational Pathology. [[Paper](https://arxiv.org/pdf/2502.21130)][[Code](https://github.com/JiuyangDong/HDMIL.)]
+
 ## Others
 
 * Q-PART: Quasi-Periodic Adaptive Regression with Test-time Training for Pediatric Left Ventricular Ejection Fraction Regression.
