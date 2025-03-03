@@ -2,9 +2,9 @@
 
 Recent papers about medical images published on CVPR. [[Github](https://github.com/MedAIerHHL/CVPR-MIA/)]
 
-To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request** .
+To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request**.
 
-Last updated: 2025/02/28
+Last updated: 2025/03/02
 
 # CVPR2025
 
@@ -12,10 +12,12 @@ Last updated: 2025/02/28
 
 - nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. [Paper][Code]
 - Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline. [[Paper](https://arxiv.org/pdf/2411.12814)][[Code](https://github.com/uni-medical/IMIS-Bench)]
+- Advancing Generalizable Tumor Segmentation with Anomaly.Aware Open-Vocabulary Attention Maps and Frozen FoundationDiffusion Models.
 
 ## Vision-Language Model (视觉-语言)
 
 * Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation. [[Paper](https://arxiv.org/abs/2502.20056)][[Code](https://github.com/mk-runner/MLRG)]
+* FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification. [[Paper](https://arxiv.org/pdf/2411.14743)][[Code](https://github.com/dddavid4real/FOCUS)]
 
 ## Others
 
