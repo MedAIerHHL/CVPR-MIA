@@ -13,6 +13,7 @@ Last updated: 2025/03/02
 - nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. [Paper][Code]
 - Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline. [[Paper](https://arxiv.org/pdf/2411.12814)][[Code](https://github.com/uni-medical/IMIS-Bench)]
 - Advancing Generalizable Tumor Segmentation with Anomaly.Aware Open-Vocabulary Attention Maps and Frozen FoundationDiffusion Models.
+- LesionLocator: Zero-Shot Universal Tumor Segmentation and Tracking in 3D Whole-Body Imaging. [[Paper](https://arxiv.org/pdf/2502.20985)][[Code](https://github.com/MIC-DKFZ/LesionLocator)]
 
 ## Vision-Language Model (视觉-语言)
 
