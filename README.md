@@ -4,7 +4,7 @@ Recent papers about medical images published on CVPR. [[Github](https://github.c
 
 To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request**.
 
-Last updated: 2025/03/02
+Last updated: 2025/03/07
 
 # CVPR2025
 
@@ -14,6 +14,7 @@ Last updated: 2025/03/02
 - Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline. [[Paper](https://arxiv.org/pdf/2411.12814)][[Code](https://github.com/uni-medical/IMIS-Bench)]
 - Advancing Generalizable Tumor Segmentation with Anomaly.Aware Open-Vocabulary Attention Maps and Frozen FoundationDiffusion Models.
 - LesionLocator: Zero-Shot Universal Tumor Segmentation and Tracking in 3D Whole-Body Imaging. [[Paper](https://arxiv.org/pdf/2502.20985)][[Code](https://github.com/MIC-DKFZ/LesionLocator)]
+- Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation. [[Paper](https://arxiv.org/pdf/2503.04639)][Code]
 
 ## Vision-Language Model (视觉-语言)
 
