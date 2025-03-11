@@ -4,7 +4,7 @@ Recent papers about medical images published on CVPR. [[Github](https://github.c
 
 To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request**.
 
-Last updated: 2025/03/07
+Last updated: 2025/03/11
 
 # CVPR2025
 
@@ -25,6 +25,25 @@ Last updated: 2025/03/07
 ## Computational Pathology (计算病理)
 
 - Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance LearningComputational Pathology. [[Paper](https://arxiv.org/pdf/2502.21130)][[Code](https://github.com/JiuyangDong/HDMIL.)]
+- FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification. [[Paper](https://arxiv.org/abs/2411.14743)][[Code](https://github.com/dddavid4real/FOCUS)][[推送](https://mp.weixin.qq.com/s/1MYkitZ3btZUBOMcBg_ryw)]
+- Distilled Prompt Learning for Incomplete Multimodal Survival Prediction. [[Paper](https://arxiv.org/pdf/2503.01653)][Code]
+- Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance Learning. [[Paper](https://arxiv.org/abs/2502.21130)][[Code](https://github.com/JiuyangDong/HDMIL.)]
+- SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding. [[Paper](https://arxiv.org/abs/2410.11761)][Code]
+- 2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification. [[Paper](https://arxiv.org/abs/2412.00678)][Code]
+- CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology. [[Paper](https://arxiv.org/abs/2412.12077)][Code]
+- MERGE: Multi-faceted Hierarchical Graph-based GNN for Gene Expression Prediction from Whole Slide Histopathology Images. [[Paper](https://arxiv.org/html/2412.02601v1)][Code]
+- HistoFS: Non-IID Histopathologic Whole Slide Image Classification via Federated Style Transfer with RoI-Preserving. [Paper][Code]
+- M3amba: Memory Mamba is All You Need for Whole Slide Image Classification. [Paper][Code]
+- Advancing Multiple Instance Learning with Continual Learning for Whole Slide Imaging. [Paper][Code]
+- BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology. [Paper][Code]
+- Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation. [Paper][Code]
+- TopoCellGen: Generating Histopathology Cell Topology with a Diffusion Model. [[Paper](https://arxiv.org/abs/2412.06011)][Code]
+- Multi-modal Topology-embedded Graph Learning for Spatially Resolved Genes Prediction from Pathology Images with Prior Gene Similarity Information. [Paper][Code]
+- Robust Multimodal Survival Prediction with the Latent Differentiation Conditional Variational AutoEncoder. [Paper][Code]
+- MExD: An Expert-Infused Diffusion Model for Whole-Slide Image Classification. [Paper][Code]
+- Learning Heterogeneous Tissues with Mixture of Experts for Gigapixel Whole Slide Images. [Paper][Code]
+- Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning. [[Paper](https://arxiv.org/abs/2411.13623)][Code]
+- WISE: A Framework for Gigapixel Whole-Slide-Image Lossless Compression. [Paper][Code]
 
 ## Others
 
