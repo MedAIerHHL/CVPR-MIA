@@ -89,7 +89,7 @@ Last updated: 2025/04/09
 ## Image Registration (图像配准)
 
 - Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration. [[Paper](https://arxiv.org/abs/2402.18933)]
-- **[Oral & Best Paper Candidate!!!] Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration. [[Paper](https://arxiv.org/abs/2406.00123)][[Code](https://github.com/jungeun122333/UVI-Net)]**
+- **[Oral & Best Paper Candidate!!!] Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration. [[Paper](https://arxiv.org/abs/2406.00123)][[Code](https://github.com/MungoMeng/Registration-CorrMLP)]**
 
 ## Image Segmentation (图像分割)
 
