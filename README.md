@@ -2,25 +2,47 @@
 
 Recent papers about medical images published on CVPR. [[Github](https://github.com/MedAIerHHL/CVPR-MIA/)]
 
-To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request**.
+🌟🌟🌟To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request**.
 
-Last updated: 2025/03/11
+Last updated: 2025/04/09
 
 # CVPR2025
+
+## Image Generation (图像生成)
+
+* Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis. [[Paper](https://arxiv.org/abs/2412.20651)][[Code](https://latentdrifting.github.io/)]
+* Blood Flow Speed Estimation with Optical Coherence Tomography Angiography Images. [[Paper](https://www3.cs.stonybrook.edu/~hling/publication/octa-flow-cvpr25.pdf)][[Code](https://gitub.com/Spritea/OCTA-Flow)]
 
 ## Image Segmentation (图像分割)
 
 - nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. [Paper][Code]
-- Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline. [[Paper](https://arxiv.org/pdf/2411.12814)][[Code](https://github.com/uni-medical/IMIS-Bench)]
-- Advancing Generalizable Tumor Segmentation with Anomaly.Aware Open-Vocabulary Attention Maps and Frozen FoundationDiffusion Models.
+- Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline. [[Paper](https://arxiv.org/abs/2411.12814)][[Code](https://github.com/uni-medical/IMIS-Bench)]
+- Steady Progress Beats Stagnation: Mutual Aid of Foundation and Conventional Models in Mixed Domain Semi-Supervised Medical Image Segmentation. [[Paper](https://export.arxiv.org/abs/2503.16997)][[Code](https://dycon25.github.io/)]
+- DyCON: Dynamic Uncertainty-aware Consistency and Contrastive Learning for Semi-supervised Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2504.04566)][[Code](https://dycon25.github.io/)]
 - LesionLocator: Zero-Shot Universal Tumor Segmentation and Tracking in 3D Whole-Body Imaging. [[Paper](https://arxiv.org/pdf/2502.20985)][[Code](https://github.com/MIC-DKFZ/LesionLocator)]
+- EffiDec3D: An Optimized Decoder for High-Performance and Efficient 3D Medical Image Segmentation. [Paper][Code]
+- nnWNet: Rethinking the Use of Transformers in Biomedical Image Segmentation and Calling for a Unified Evaluation Benchmark. [Paper][Code]
+- Interactive Medical Image Segmentation: A Benchmark Dataset and Baseline. [[Paper](https://arxiv.org/pdf/2411.12814)][[Code](https://github.com/uni-medical/IMIS-Bench)]
+- Advancing Generalizable Tumor Segmentation with Anomaly.Aware Open-Vocabulary Attention Maps and Frozen FoundationDiffusion Models. [Paper][Code]
 - Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation. [[Paper](https://arxiv.org/pdf/2503.04639)][Code]
+- Boost the Inference with Co-training: A Depth-guided Mutual Learning Framework for Semi-supervised Medical Polyp Segmentation (RD-Net). [Paper][[Code](https://github.com/pingchuan/RD-Net)]
+- Test-Time Domain Generalization via Universe Learning: A Multi-Graph Matching Approach for Medical Image Segmentation. [[Paper](https://arxiv.org/abs/2503.13012)][[Code](https://github.com/Yore0/TTDG-MGM)]
+
+## Medical Pre-training $ Foundation Model（预训练&基础模型）
+
+* Multi-modal Vision Pre-training for Medical Image Analysis. [[Paper](https://arxiv.org/abs/2410.10604)![]()][[Code](https://github.com/shaoao011/BrainMVP)]
 
 ## Vision-Language Model (视觉-语言)
 
-* Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation. [[Paper](https://arxiv.org/abs/2502.20056)][[Code](https://github.com/mk-runner/MLRG)]
-* FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification. [[Paper](https://arxiv.org/pdf/2411.14743)][[Code](https://github.com/dddavid4real/FOCUS)][[推送](https://mp.weixin.qq.com/s/1MYkitZ3btZUBOMcBg_ryw)]
-* MedUnifier: Unifying Vision-and-Language Pre-training on Medical Data with Vision Generation Task using Discrete Visual Representations. [[Paper](https://arxiv.org/pdf/2503.01019)][Code]
+* VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge. [[Paper](https://arxiv.org/abs/2411.12915)![]()][[Code](https://github.com/Project-MONAI/VLM-Radiology-Agent-Framework)]
+* BIOMEDICA: An Open Biomedical Image-Caption Archive with Vision-Language Models derived from Scientific Literature. [[Paper](https://arxiv.org/abs/2501.07171v3)![]()][[Project](https://minwoosun.github.io/biomedica-website/)]
+* BiomedCoOp: Learning to Prompt for Biomedical Vision-Language Models. [[Paper](https://arxiv.org/abs/2411.15232)![]()][[Code](https://github.com/HealthX-Lab/BiomedCoOp)]
+* MIMO: A medical vision language model with visual referring multimodal input and pixel grounding multimodal output. [Paper][Code]
+* Bringing CLIP to the Clinic: Dynamic Soft Labels and Negation-Aware Learning for Medical Analysis. [Paper][Code]
+* Alignment, Mining and Fusion: Representation Alignment with Hard Negative Mining and Selective Knowledge Fusion for Medical Visual Question Answering. [Paper][Code]
+* Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation. [[Paper](https://arxiv.org/abs/2502.20056)![]()][[Code](https://github.com/mk-runner/MLRG)]
+* FOCUS: Knowledge-enhanced Adaptive Visual Compression for Few-shot Whole Slide Image Classification. [[Paper](https://arxiv.org/pdf/2411.14743)][[Code](https://github.com/dddavid4real/FOCUS)]
+* MedUnifier: Unifying Vision-and-Language Pre-training on Medical Data with Vision Generation Task using Disrete Visual Representations. [[Paper](https://arxiv.org/pdf/2503.01019)][Code]
 
 ## Computational Pathology (计算病理)
 
@@ -48,6 +70,7 @@ Last updated: 2025/03/11
 ## Others
 
 * Q-PART: Quasi-Periodic Adaptive Regression with Test-time Training for Pediatric Left Ventricular Ejection Fraction Regression.
+* Towards All-in-One Medical Image Re-Identification. [[Paper](https://arxiv.org/abs/2503.08173)][[Code](https://github.com/tianyuan168326/All-in-One-MedReID-Pytorch)]
 
 # CVPR2024
 
@@ -138,3 +161,7 @@ Last updated: 2025/03/11
 
 - Seeing Unseen: Discover Novel Biomedical Concepts via Geometry-Constrained Probabilistic Modeling. [[Paper](https://arxiv.org/html/2403.01053v2)]
 - FocusMAE: Gallbladder Cancer Detection from Ultrasound Videos with Focused Masked Autoencoders. [[Paper](https://arxiv.org/abs/2403.08848)][[Code](https://github.com/sbasu276/FocusMAE)]
+
+# Acknowledgement
+
+* Some CVPR 2025 papers sourced from [https://github.com/cerishleon/cvpr25_medical_paper](https://github.com/cerishleon/cvpr25_medical_paper?tab=readme-ov-file)
