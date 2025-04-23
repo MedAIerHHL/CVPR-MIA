@@ -31,6 +31,8 @@ Last updated: 2025/04/09
 ## Medical Pre-training $ Foundation Model（预训练&基础模型）
 
 * Multi-modal Vision Pre-training for Medical Image Analysis. [[Paper](https://arxiv.org/abs/2410.10604)![]()][[Code](https://github.com/shaoao011/BrainMVP)]
+* CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning [[Paper](https://arxiv.org/abs/2504.13820)![]()][[Code](https://github.com/LeapLabTHU/CheXWorld)]
+* EchoWorld: Learning Motion-Aware World Models for Echocardiography Probe Guidance [[Paper](https://arxiv.org/abs/2504.13065)![]()][[Code](https://github.com/LeapLabTHU/EchoWorld)]
 
 ## Vision-Language Model (视觉-语言)
 
