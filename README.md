@@ -12,6 +12,8 @@ Last updated: 2025/04/09
 
 * Latent Drifting in Diffusion Models for Counterfactual Medical Image Synthesis. [[Paper](https://arxiv.org/abs/2412.20651)][[Code](https://latentdrifting.github.io/)]
 * Blood Flow Speed Estimation with Optical Coherence Tomography Angiography Images. [[Paper](https://www3.cs.stonybrook.edu/~hling/publication/octa-flow-cvpr25.pdf)][[Code](https://gitub.com/Spritea/OCTA-Flow)]
+* ZoomLDM: Latent Diffusion Model for multi-scale image generation. [[Paper](https://histodiffusion.github.io/docs/projects/zoomldm/)][[Code](https://github.com/cvlab-stonybrook/ZoomLDM/tree/main)]
+  
 
 ## Image Segmentation (图像分割)
 
@@ -118,7 +120,7 @@ Last updated: 2025/04/09
 
 ## Image Generation (图像生成)
 
-- Learned representation-guided diffusion models for large-image generation. [[Paper](https://arxiv.org/abs/2312.07330)]
+- Learned representation-guided diffusion models for large-image generation. [[Paper](https://arxiv.org/abs/2312.07330)][[Code](https://github.com/cvlab-stonybrook/Large-Image-Diffusion)]
 - MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant. [[Paper](https://arxiv.org/html/2403.04290v1)]
 - Towards Generalizable Tumor Synthesis. [[Paper](https://arxiv.org/abs/2402.19470v1)][[Code](https://github.com/MrGiovanni/DiffTumor)]
 - Data-Efficient Unsupervised Interpolation Without Any Intermediate Frame for 4D Medical Images. [[Paper](https://arxiv.org/abs/2404.01464)][[Code](https://github.com/jungeun122333/UVI-Net)]
