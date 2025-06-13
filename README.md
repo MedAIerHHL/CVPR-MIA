@@ -76,6 +76,7 @@ Last updated: 2025/04/09
 * Q-PART: Quasi-Periodic Adaptive Regression with Test-time Training for Pediatric Left Ventricular Ejection Fraction Regression.
 * Towards All-in-One Medical Image Re-Identification. [[Paper](https://arxiv.org/abs/2503.08173)][[Code](https://github.com/tianyuan168326/All-in-One-MedReID-Pytorch)]
 * OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection. [[Paper](https://arxiv.org/abs/2503.08173)][[Code](https://github.com/tianyuan168326/All-in-One-MedReID-Pytorch)]
+* MultiMorph: On-demand Atlas Construction. [[Paper](https://arxiv.org/abs/2504.00247)][[Code](https://github.com/mabulnaga/multimorph/tree/main)]
 
 # CVPR2024
 
