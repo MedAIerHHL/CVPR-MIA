@@ -75,6 +75,7 @@ Last updated: 2025/04/09
 
 * Q-PART: Quasi-Periodic Adaptive Regression with Test-time Training for Pediatric Left Ventricular Ejection Fraction Regression.
 * Towards All-in-One Medical Image Re-Identification. [[Paper](https://arxiv.org/abs/2503.08173)][[Code](https://github.com/tianyuan168326/All-in-One-MedReID-Pytorch)]
+* OpenMIBOOD: Open Medical Imaging Benchmarks for Out-Of-Distribution Detection. [[Paper](https://arxiv.org/abs/2503.08173)][[Code](https://github.com/tianyuan168326/All-in-One-MedReID-Pytorch)]
 
 # CVPR2024
 
@@ -83,7 +84,7 @@ Last updated: 2025/04/09
 - QN-Mixer: A Quasi-Newton MLP-Mixer Model for Sparse-View CT Reconstruction. [[Paper](https://arxiv.org/abs/2402.17951v1)][Code][[Project](https://towzeur.github.io/QN-Mixer/)]
 - Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI. [[Paper](https://arxiv.org/abs/2312.03102)][[Code](http://github.com/seannz/svr)]
 - Structure-Aware Sparse-View X-ray 3D Reconstruction.[[Paper](https://arxiv.org/abs/2311.10959)][[Code](https://github.com/caiyuanhao1998/SAX-NeRF)]
-- Progressive Divide-and-Conquer via Subsampling Decomposition for Accelerated MRI. [[Paper](https://arxiv.org/abs/2403.10064)][[Code](https://github.com/ChongWang1024/PDAC)]
+- Progressive Divide-and-Conquer via Subsampling Decomposition for Accelerated MRI. [[Paper]((https://openaccess.thecvf.com/content/CVPR2025/papers/Gutbrod_OpenMIBOOD_Open_Medical_Imaging_Benchmarks_for_Out-Of-Distribution_Detection_CVPR_2025_paper.pdf))][[Code](https://github.com/remic-othr/OpenMIBOOD)]
 
 ## Image Resolution (图像超分)
 
