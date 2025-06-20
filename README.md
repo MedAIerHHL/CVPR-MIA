@@ -1,10 +1,17 @@
-# CVPR-MIA
+<h1 align="center">CVPR-MIA</h1>
+
+<div align="center">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MedAIerHHL/CVPR-MIA)
+[![GitHub Repo stars](https://img.shields.io/github/stars/MedAIerHHL/CVPR-MIA?style=social)](https://github.com/MedAIerHHL/CVPR-MIA/stargazers)
+
+</div>
 
 Recent papers about medical images published on CVPR. [[Github](https://github.com/MedAIerHHL/CVPR-MIA/)]
 
 🌟🌟🌟To complement or correct it (highlight, oral, and so on), please contact me at **1729766533 [at] qq [dot] com** or **send a pull request**.
 
-Last updated: 2025/04/09
+Last updated: 2025/06/20
 
 # CVPR2025
 
